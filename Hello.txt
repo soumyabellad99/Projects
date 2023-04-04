@@ -1,0 +1,5 @@
+create file in different  branch and push it into main branch
+>>get push the file we get one command
+-->git push --set-upstream origin Devbranch
+
+copy and paste 
